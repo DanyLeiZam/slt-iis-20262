@@ -13,6 +13,9 @@
 * [Práctica 3: Conjunto de estudiantes](practica03)<br>
   Entrega: 12 de octubre de 2026
 
+* [Práctica 4: Conjunto genérico, ordenamientos y búsquedas](practica04)<br>
+  Entrega: 26 de octubre de 2026
+
 ### Proyecto final
 
 * [Proyecto final: Base de datos de otro dominio](proyectofinal)<br>
