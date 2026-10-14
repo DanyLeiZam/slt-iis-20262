@@ -48,10 +48,10 @@ Deberán modificar **únicamente los archivos indicados explícitamente para est
 Antes de entregar deberán ejecutar nuevamente:
 
 ```bash
-$ make test
+$ make clean && make test
 ```
 
-y comprobar que todas las pruebas pasen correctamente.
+Así comprobarán una compilación completa desde cero y que todas las pruebas pasen correctamente.
 
 Posteriormente deberán realizar el commit correspondiente a la entrega y subirlo a su repositorio privado de GitHub:
 

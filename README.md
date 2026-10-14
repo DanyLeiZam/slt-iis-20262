@@ -122,10 +122,10 @@ Las prácticas estarán disponibles en este repositorio. Para trabajar y entrega
 * Antes de realizar la entrega, ejecutar nuevamente las pruebas:
 
   ```bash
-  $ make test
+  $ make clean && make test
   ```
 
-  y comprobar que todas pasen correctamente.
+  Así comprobarán una compilación completa desde cero y que todas las pruebas pasen correctamente.
 
 * Una vez terminada la práctica, agregar los cambios pendientes y realizar el commit correspondiente a la entrega:
 
