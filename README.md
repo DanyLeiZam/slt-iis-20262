@@ -16,6 +16,9 @@
 * [Práctica 4: Conjunto genérico, ordenamientos y búsquedas](practica04)<br>
   Entrega: 26 de octubre de 2026
 
+* [Práctica 5: Conjuntos dinámicos](practica05)<br>
+  Entrega: 9 de noviembre de 2026
+
 ### Proyecto final
 
 * [Proyecto final: Base de datos de otro dominio](proyectofinal)<br>
