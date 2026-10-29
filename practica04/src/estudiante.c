@@ -1,7 +1,7 @@
 /*
  * Archivo: estudiante.c
  * Completen la comparación; se conservan las otras operaciones de la práctica 3.
- * Autoría: Completa tu nombre.
+ * Autoría: Daniela Díaz Morales.
  */
 
 #include <stdio.h>
@@ -11,6 +11,10 @@
 /* Compara las matrículas para determinar igualdad y orden. */
 int compararEstudiantes(const void *estudianteA, const void *estudianteB) {
     // Aquí va su código.
+    const Estudiante *a = estudianteA;
+    const Estudiante *b = estudianteB;
+
+    return (a->matricula > b->matricula) - (a->matricula < b->matricula);
 }
 
 /* Modifica un campo mediante un apuntador a la estructura. */
