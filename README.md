@@ -16,6 +16,9 @@
 * [Práctica 4: Conjunto genérico, ordenamientos y búsquedas](practica04)<br>
   Entrega: 26 de octubre de 2026
 
+* [Práctica 5: Conjuntos dinámicos](practica05)<br>
+  Entrega: 9 de noviembre de 2026
+
 ### Proyecto final
 
 * [Proyecto final: Base de datos de otro dominio](proyectofinal)<br>
@@ -122,10 +125,10 @@ Las prácticas estarán disponibles en este repositorio. Para trabajar y entrega
 * Antes de realizar la entrega, ejecutar nuevamente las pruebas:
 
   ```bash
-  $ make test
+  $ make clean && make test
   ```
 
-  y comprobar que todas pasen correctamente.
+  Así comprobarán una compilación completa desde cero y que todas las pruebas pasen correctamente.
 
 * Una vez terminada la práctica, agregar los cambios pendientes y realizar el commit correspondiente a la entrega:
 
