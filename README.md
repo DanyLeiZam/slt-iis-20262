@@ -19,6 +19,9 @@
 * [Práctica 5: Conjuntos dinámicos](practica05)<br>
   Entrega: 9 de noviembre de 2026
 
+* [Práctica 6: Persistencia de datos](practica06)<br>
+  Entrega: 23 de noviembre de 2026
+
 ### Proyecto final
 
 * [Proyecto final: Base de datos de otro dominio](proyectofinal)<br>

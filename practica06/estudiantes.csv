@@ -1,0 +1,101 @@
+matricula,nombres,apellidos,promedio
+20260001,José Luis,Hernández García,8.75
+20260002,María Guadalupe,Martínez López,9.10
+20260003,Juan Carlos,García Sánchez,7.85
+20260004,Ana Sofía,López Rodríguez,9.42
+20260005,Miguel Ángel,González Pérez,8.30
+20260006,Ximena,Hernández Ramírez,9.65
+20260007,Santiago,Martínez Flores,7.90
+20260008,Valentina,García Gómez,8.88
+20260009,Diego Alejandro,Sánchez Díaz,8.15
+20260010,Regina,López Cruz,9.27
+20260011,Emiliano,Rodríguez Morales,7.72
+20260012,Camila,Pérez Reyes,8.94
+20260013,Mateo,González Ortiz,6.85
+20260014,Renata,Ramírez Gutiérrez,9.51
+20260015,Sebastián,Flores Chávez,8.06
+20260016,Natalia,Gómez Vázquez,9.18
+20260017,Leonardo,Díaz Mendoza,7.48
+20260018,Fernanda,Cruz Aguilar,8.63
+20260019,Gael,Morales Castillo,7.95
+20260020,Daniela,Reyes Romero,9.33
+20260021,Iker,Ortiz Torres,6.92
+20260022,Mariana,Gutiérrez Vargas,8.47
+20260023,Maximiliano,Chávez Jiménez,7.64
+20260024,Alejandra,Vázquez Moreno,9.02
+20260025,Rodrigo,Mendoza Ruiz,8.21
+20260026,Lucía,Aguilar Herrera,9.74
+20260027,Eduardo,Castillo Medina,7.36
+20260028,Andrea,Romero Castro,8.56
+20260029,Carlos Alberto,Torres Rojas,7.89
+20260030,Paulina,Vargas Navarro,9.20
+20260031,Jorge,Jiménez Salazar,6.78
+20260032,Monserrat,Moreno Vega,8.81
+20260033,Fernando,Ruiz Campos,7.57
+20260034,Gabriela,Herrera Cabrera,9.36
+20260035,Ricardo,Medina Luna,8.04
+20260036,Citlali,Castro Mejía,9.58
+20260037,Óscar,Rojas Valencia,7.13
+20260038,Itzel,Navarro Bautista,8.69
+20260039,Raúl,Salazar Espinoza,7.82
+20260040,Xóchitl,Vega Fuentes,9.46
+20260041,Arturo,Campos Carrillo,6.64
+20260042,Nayeli,Cabrera Padilla,8.97
+20260043,Francisco,Luna Contreras,7.41
+20260044,Yaretzi,Mejía Pacheco,9.12
+20260045,Héctor,Valencia Acosta,8.38
+20260046,Eréndira,Bautista Miranda,9.69
+20260047,Manuel,Fuentes Trejo,7.76
+20260048,Tonantzin,Carrillo Gallegos,8.52
+20260049,Jesús,Padilla Rosales,6.96
+20260050,Abril,Contreras Tapia,9.24
+20260051,Cuauhtémoc,Pacheco Solís,8.11
+20260052,Lupita,Acosta Nájera,8.86
+20260053,Armando,Miranda Ochoa,7.29
+20260054,Aketzali,Trejo Castañeda,9.55
+20260055,Luis Enrique,Gallegos Villanueva,8.43
+20260056,Aranza,Rosales Arellano,9.08
+20260057,Víctor Manuel,Tapia Zamora,7.68
+20260058,Alitzel,Solís Barrera,8.91
+20260059,César,Nájera Valdez,6.73
+20260060,Yatziri,Ochoa Maldonado,9.39
+20260061,Jonathan,Castañeda Escobar,7.97
+20260062,Marisol,Villanueva Ibarra,8.34
+20260063,Marco Antonio,Arellano Beltrán,7.53
+20260064,Estefanía,Zamora Cárdenas,9.61
+20260065,Adolfo,Barrera Cuevas,6.88
+20260066,Jocelyn,Valdez Cervantes,8.72
+20260067,Rubén,Maldonado Serrano,7.45
+20260068,Fátima,Escobar Domínguez,9.16
+20260069,Salvador,Ibarra Velázquez,8.02
+20260070,Jimena,Beltrán Palacios,9.48
+20260071,Felipe,Cárdenas Montoya,7.24
+20260072,Karla,Cuevas de la Rosa,8.59
+20260073,Alonso,Cervantes Olvera,7.87
+20260074,Brenda,Serrano Corona,9.05
+20260075,Mauricio,Domínguez Leal,8.26
+20260076,Dulce María,Velázquez Zúñiga,9.72
+20260077,Iván,Palacios Téllez,6.81
+20260078,Alma,Montoya Macías,8.66
+20260079,Andrés,Olvera Andrade,7.38
+20260080,Mónica,Corona Escamilla,9.29
+20260081,Guillermo,Leal Villalobos,8.14
+20260082,Leticia,Zúñiga Peralta,8.93
+20260083,Noé,Téllez Córdova,7.61
+20260084,Patricia,Macías Arriaga,9.44
+20260085,Benjamín,Andrade Saucedo,6.57
+20260086,Rosa Isela,Escamilla Camacho,8.78
+20260087,Cristóbal,Villalobos Farías,7.91
+20260088,Elena,Peralta Esquivel,9.22
+20260089,Omar,Córdova Valenzuela,8.49
+20260090,Beatriz,Arriaga Mondragón,9.67
+20260091,Alexis,Saucedo Fragoso,7.06
+20260092,Dolores,Camacho Acevedo,8.83
+20260093,Israel,Farías Armenta,7.70
+20260094,Teresa,Esquivel Esparza,9.14
+20260095,Uriel,Valenzuela Becerra,8.31
+20260096,Socorro,Mondragón Montalvo,9.53
+20260097,Yael,Fragoso Santillán,7.49
+20260098,Verónica,Acevedo Quintana,8.99
+20260099,Pablo,Armenta Zepeda,6.69
+20260100,Cecilia,Esparza Huerta,9.31
