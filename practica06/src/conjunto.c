@@ -16,19 +16,7 @@
 /* Inicializa el conjunto y reserva un arreglo lleno de bytes con valor 0. */
 int inicializarConjunto(Conjunto *conjunto, int capacidadInicial,
                         size_t tamElemento, Comparador comparar) {
-    if (conjunto == NULL || tamElemento == 0 || capacidadInicial <= 0 || comparar == NULL)
-       return 0;
-    conjunto->elementos = NULL;
-    conjunto->cantidad = 0;
-    conjunto->capacidad = 0;
-    conjunto->tamElemento = tamElemento;
-    conjunto->comparar = comparar;
-
-    conjunto->elementos = calloc((size_t)capacidadInicial,tamElemento);
-    if (conjunto->elementos == NULL)
-       return 0;
-    conjunto->capacidad = capacidadInicial;
-    return 1;
+    // Aquí va su código.
 }
 
 /* Obtiene una posición utilizada para consultarla o modificarla. */
@@ -52,14 +40,7 @@ int buscarElemento(const Conjunto *conjunto, const void *elemento) {
 
 /* Agrega un elemento y duplica la capacidad cuando el arreglo está lleno. */
 int agregarElemento(Conjunto *conjunto, const void *elemento) {
-    if (conjunto->cantidad == conjunto->capacidad) // Se llenó el bloque de memoria.
-    {
-        conjunto->elementos = ralloc(conjunto->elementos, (conjunto->capacidad+100)*conjunto->tamElemento);
-        if (conjunto->elementos == NULL) // No había espacio para reasignar
-            return 0;
-        conjunto->capacidad += 100;
-        (conjunto->elementos) + (conjunto->cantidad * conjunto->tamElemento) = *elemento;
-    }
+    // Aquí va su código.
 }
 
 /* Elimina un elemento y conserva el orden de los restantes. */
@@ -75,10 +56,7 @@ int reemplazarElemento(Conjunto *conjunto, const void *elemento,
 
 /* Libera el arreglo y deja el conjunto listo para volver a crecer. */
 void vaciarConjunto(Conjunto *conjunto) {
-    free(conjunto->elementos);
-    conjunto->cantidad = 0;
-    conjunto->elementos = NULL;
-    conjunto->capacidad = 0;
+    // Aquí va su código.
 }
 
 /* Copia todos los elementos y amplía el destino cuando hace falta. */
