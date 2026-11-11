@@ -1,7 +1,7 @@
 /*
  * Archivo: estudiante.c
  * Completen la comparación; se conservan las otras operaciones de la práctica 4.
- * Autoría: Completa tu nombre.
+ * Autoría: Daniela Díaz Morales.
  */
 
 #include <stdio.h>
